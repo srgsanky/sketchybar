@@ -28,6 +28,7 @@ brew search "/font-/"
 brew list --cask | grep font
 
 brew install --cask font-hack-nerd-font
+brew install --cask font-jetbrains-mono-nerd-font
 
 # View font name to use in configurations
 brew info font-hack-nerd-font
